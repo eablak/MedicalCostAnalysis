@@ -1,5 +1,1 @@
-*.python linguist-detectable=true
-*.Jupyter Notebook linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xhtml linguist-detectable=false
+
